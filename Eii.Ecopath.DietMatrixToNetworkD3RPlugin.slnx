@@ -12,5 +12,5 @@
     <File Path=".github/workflows/build-check.yml" />
     <File Path=".github/workflows/release-nuget.yml" />
   </Folder>
-  <Project Path="src/DietMatrixToNetworkD3RPlugin/EwEDietMatrixToNetworkD3RPlugin.vbproj" />
+  <Project Path="DietMatrixToNetworkD3RPlugin/EwEDietMatrixToNetworkD3RPlugin.vbproj" />
 </Solution>
